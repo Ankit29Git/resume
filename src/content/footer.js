@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
         <div className='footer'>
-            <h3>This site is a work in progress. Feel fress to send your suggestions/ideas to suggestion2ankit@gmail.com</h3>
+            <h3>This site is a work in progress. Feel free to send your suggestions/ideas at suggestion2ankit@gmail.com</h3>
             <div className='images-container'>
                 <div className='transparent img1'>
                     <img src="https://img.icons8.com/bubbles/100/000000/react.png" />
