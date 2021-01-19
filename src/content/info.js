@@ -4,7 +4,7 @@ const Info = () => {
     // console.log('meface :', meface);
     return (
         <div className='info-container'>
-            <LazyLoadImages imgSrc='https://lh3.googleusercontent.com/JxwmAvmsLIibIEySGtm_ckJN30IH2_6lw4pFxXd6Gh1Lpra2w71RmY_kMFnzqKDCt3t-7eXa7tc4qVGKDsazf5ytAVf-d63qxkdw1GTF5s2CCRZSIsOO1X8GJaTuwu_AQwpa4YXVItPzm7ZjP_iancaTBa_QJUgaw4-n1qll4TgX_IgJtUUbmoXV6ruJ5AxF8283h_FAYJPG0596z0qTZiyQvwr91A3v5GfSRhnBd_fQE5B7z_tmZn9GFbptVCeSfb7omqb_gZKjPHHH5hBlODCOpTql9OY5E9ePsCuP2LM0QMF3TxZnpcJ6DGsZNfNEs5XTAr0hNGhdu8q6EVtOe8R_jRG9yZLWybwFxxCcu6piPDMXSsKUQGD6hC0FF33-YBCDjY0qj5PdqaHuO1oXjaI5jgIcwEZ4_AqXjDS2kpcZJIpdWofI7Di6H9_iKyLPR51UHJvEEU5eE1KW9LvzUKAjCwNhxOgpL6kuvIbu1MdQruHDuQuJd3A9NUWsqceYgGKA4SoisWM5HAwMxL-52NrClobFsvalQuBYjyRl7IP3jZM0kRu2H4_VxgjBdkmaRGjjK-WbCxYrpv7X6-MpAPwQZXQJms-jO-leO6u7iKgU6jeDsMjqlmUcN1wEwNyhzlwxeueM7f55jMwcQ0ZC6sgdKJE_PF5bay2cyMndgiEpil5hDzp46WQr2MrmAA=w1204-h903-no?authuser=1' />
+            <LazyLoadImages imgSrc='https://res.cloudinary.com/dgcxsgxi8/image/upload/v1611057894/IMG_1653_md8e0l.jpg' />
             {/* <div className='image-container'>
                 <div className='note-on-img'>*This is a candid picture. Nothing as serious as it looks.</div>
             </div> */}

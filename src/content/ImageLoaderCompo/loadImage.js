@@ -2,11 +2,10 @@ import { useState, useEffect } from 'react';
 
 const LazyLoadImages = ({imgSrc}) => {
     const [loaded, loadSrc] = useState(false);
-
     useEffect(() => {
         const img = new Image();
-        img.src = imgSrc;
         img.onload = () =>loadSrc(true);
+        img.src = imgSrc;
     },[imgSrc]);
     
     return (
